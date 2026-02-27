@@ -1,0 +1,14 @@
+﻿# ASP.NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Node / frontend
+node_modules/
+
+# Environment
+.env
