@@ -71,7 +71,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include=".gitignore" />
     <Content Include="Admin\Category.aspx" />
     <Content Include="Admin\Contact.aspx" />
     <Content Include="Admin\Dashboard.aspx" />
