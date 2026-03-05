@@ -83,7 +83,7 @@ Online-Food-Ordering-System
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/online-food-ordering-system.git
+git clone https://github.com/abhijit-7-analytics/Online_FooD_Order.git
 ```
 
 2. Open the project in **Visual Studio**
